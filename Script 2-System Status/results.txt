@@ -1,0 +1,43 @@
+This program's purpose is to fetch system information and status
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< System Information and Status >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Hostname: Ubuntu
+Kernel Version: 6.2.0-31-generic
+Current User: root
+System is running since: 2023-09-01 22:49:51
+
+CPU Usage (per core):
+-----------------------
+Core : (Ubuntu)% user, _x86_64_% system, % idle
+Core : CPU% user, %nice% system, %idle% idle
+Core : all% user, 0.00% system, 98.20% idle
+Core : 0% user, 0.00% system, 98.99% idle
+Core : 1% user, 0.00% system, 99.00% idle
+Core : 2% user, 0.00% system, 98.00% idle
+Core : 3% user, 0.00% system, 97.03% idle
+Core : 4% user, 0.00% system, 98.00% idle
+Core : %usr% user, %sys% system, % idle
+Core : 0.60% user, 1.20% system, % idle
+Core : 0.00% user, 1.01% system, % idle
+Core : 0.00% user, 1.00% system, % idle
+Core : 1.00% user, 1.00% system, % idle
+Core : 0.99% user, 1.98% system, % idle
+Core : 1.00% user, 1.00% system, % idle
+
+Memory Information:
+-------------------
+               total        used        free      shared  buff/cache   available
+Mem:            7932         994        5710          47        1227        6660
+Swap:           2047           0        2047
+
+Disk Usage (root partition):
+---------------------------
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3        20G   14G  4.8G  74% /
+
+Network Statistics:
+-------------------
+Kernel Interface table
+Iface      MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s3    1500      502      0      0 0           493      0      0      0 BMRU
+lo       65536      127      0      0 0           127      0      0      0 LRU
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< End of script  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
