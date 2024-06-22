@@ -1,0 +1,14 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Starting Backup Automation Script >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Starting Backup Automation Script >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Initiating the backup process...
+Creating a backup folder with the timestamp: 20230901-235647
+Backup completed successfully. Files are now stored in '/home/rahul/Assignment1_Backup/backup-20230901-235647'.
+The backup process has concluded. Results are recorded in 'automation_results.txt'.
+Initiating the backup process...
+Creating a backup folder with the timestamp: 20230901-235657
+Backup completed successfully. Files are now stored in '/home/rahul/Assignment1_Backup/backup-20230901-235657'.
+The backup process has concluded. Results are recorded in 'automation_results.txt'.
+Initiating the backup process...
+Creating a backup folder with the timestamp: 20230901-235707
+Backup completed successfully. Files are now stored in '/home/rahul/Assignment1_Backup/backup-20230901-235707'.
+The backup process has concluded. Results are recorded in 'automation_results.txt'.
